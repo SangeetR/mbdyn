@@ -9,4 +9,9 @@ mbdyn Entry Test:
 -[x] Visualized the results using seaborn in python
 
 For Blendyn project:
--[x] 
+-[x] made a blender model (I just added a cube )
+-[x] wrote a operator for blender
+-[x] wrote a panel for blender (Means, it's showing in UI)
+-[x] animated last result i got (roughly)
+
+
